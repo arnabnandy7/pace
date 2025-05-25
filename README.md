@@ -26,4 +26,6 @@ If you use AMD or Browserify, require pace.js and call `pace.start()` as early i
 </head>
 ```
 
-<!-- GitAds-Verify: KXLLOFVBD2XHP45XR3FJYBLWQCCCCX1K -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/pace@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/pace@github)
+
